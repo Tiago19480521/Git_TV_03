@@ -1,3 +1,3 @@
 # Git_TV_03
 
-Este repopsitório é para acrescentar alguns elementos à página HTML.
+Este repositório tem a finalidade de acrescentar alguns elementos à página HTML.
